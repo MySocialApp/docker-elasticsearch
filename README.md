@@ -1,5 +1,7 @@
 # docker-elasticsearch
 
+You can find here a docker container we're using at [MySocialApp](https://mysocialapp.io) (iOS and Android social app builder - SaaS)
+
 Ready to use, lean and highly configurable Elasticsearch container image.
 
 [![Docker Repository on Quay.io](https://quay.io/repository/pires/docker-elasticsearch/status "Docker Repository on Quay.io")](https://quay.io/repository/pires/docker-elasticsearch)
